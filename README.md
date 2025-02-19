@@ -107,7 +107,7 @@ Some example results from our trained DETR model over samples from the testing s
 <p align="center"><b>Figure 4:</b> Model predictions on sample image 2.</p>
 
 ## Inference on unseen data
-As we can see, despite the fact that the model was trained on a relatively small dataset with limited variance, it still demonstrates promising adaptability and meaningful detection capabilities.
+As we can see, despite the fact that the model was trained on a relatively small dataset with limited variance, it still demonstrates promising adaptability and meaningful detection capabilities:
 
 <p align="center">
   <img src="./readme-images/demo_chess.gif" alt="Predictions Demo">
